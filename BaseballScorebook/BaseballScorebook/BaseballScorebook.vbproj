@@ -92,12 +92,44 @@
     <Content Include="Account\ChangePasswordSuccess.aspx" />
     <Content Include="Account\Login.aspx" />
     <Content Include="Account\Register.aspx" />
-    <Content Include="Styles\Site.css" />
+    <None Include="Styles\bootstrap\bootstrap-theme.css.map" />
+    <None Include="Styles\bootstrap\bootstrap-theme.min.css.map" />
+    <None Include="Styles\bootstrap\bootstrap.css.map" />
+    <None Include="Styles\bootstrap\bootstrap.min.css.map" />
+    <None Include="Styles\bootstrap\bootstrap.scss" />
+    <None Include="Styles\Site.css.map" />
+    <None Include="Styles\Site.scss" />
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
-    <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
-    <Content Include="Scripts\jquery-1.4.1.js" />
-    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\jquery-1.11.3.js" />
+    <Content Include="Scripts\jquery-1.11.3.min.js" />
+    <Content Include="Scripts\jquery-1.3.2-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.3.2.js" />
+    <Content Include="Scripts\jquery-1.3.2.min-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.3.2.min.js" />
+    <None Include="Styles\bootstrap\bootstrap-theme.scss" />
+    <Content Include="Scripts\jquery-1.4.min.js" />
+    <Content Include="Scripts\jquery-ui-1.7.3.custom.min.js" />
+    <Content Include="Scripts\jquery.maskedinput-1.2.2.min.js" />
+    <Content Include="Styles\bootstrap\bootstrap-theme.css">
+      <DependentUpon>bootstrap-theme.scss</DependentUpon>
+    </Content>
+    <None Include="Styles\bootstrap\bootstrap-theme.min.scss" />
+    <Content Include="Styles\bootstrap\bootstrap-theme.min.css">
+      <DependentUpon>bootstrap-theme.min.scss</DependentUpon>
+    </Content>
+    <Content Include="Styles\bootstrap\bootstrap.css">
+      <DependentUpon>bootstrap.scss</DependentUpon>
+    </Content>
+    <None Include="Styles\bootstrap\bootstrap.min.scss" />
+    <Content Include="Styles\bootstrap\bootstrap.min.css">
+      <DependentUpon>bootstrap.min.scss</DependentUpon>
+    </Content>
+    <Content Include="Styles\Site.css">
+      <DependentUpon>Site.scss</DependentUpon>
+    </Content>
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
