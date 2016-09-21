@@ -1,0 +1,8 @@
+C:\in_house\BaseballScorebook\BaseballScorebook\BaseballScorebook\bin\BaseballScorebook.dll
+C:\in_house\BaseballScorebook\BaseballScorebook\BaseballScorebook\bin\BaseballScorebook.pdb
+C:\in_house\BaseballScorebook\BaseballScorebook\BaseballScorebook\bin\BaseballScorebook.xml
+C:\in_house\BaseballScorebook\BaseballScorebook\BaseballScorebook\obj\Debug\BaseballScorebook.Resources.resources
+C:\in_house\BaseballScorebook\BaseballScorebook\BaseballScorebook\obj\Debug\BaseballScorebook.vbproj.GenerateResource.Cache
+C:\in_house\BaseballScorebook\BaseballScorebook\BaseballScorebook\obj\Debug\BaseballScorebook.dll
+C:\in_house\BaseballScorebook\BaseballScorebook\BaseballScorebook\obj\Debug\BaseballScorebook.xml
+C:\in_house\BaseballScorebook\BaseballScorebook\BaseballScorebook\obj\Debug\BaseballScorebook.pdb
