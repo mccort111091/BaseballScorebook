@@ -6,3 +6,11 @@ C:\in_house\BaseballScorebook\BaseballScorebook\BaseballScorebook\obj\Debug\Base
 C:\in_house\BaseballScorebook\BaseballScorebook\BaseballScorebook\obj\Debug\BaseballScorebook.dll
 C:\in_house\BaseballScorebook\BaseballScorebook\BaseballScorebook\obj\Debug\BaseballScorebook.xml
 C:\in_house\BaseballScorebook\BaseballScorebook\BaseballScorebook\obj\Debug\BaseballScorebook.pdb
+I:\MyProject\BaseballScorebook\BaseballScorebook-master\BaseballScorebook\BaseballScorebook\bin\BaseballScorebook.dll
+I:\MyProject\BaseballScorebook\BaseballScorebook-master\BaseballScorebook\BaseballScorebook\bin\BaseballScorebook.pdb
+I:\MyProject\BaseballScorebook\BaseballScorebook-master\BaseballScorebook\BaseballScorebook\bin\BaseballScorebook.xml
+I:\MyProject\BaseballScorebook\BaseballScorebook-master\BaseballScorebook\BaseballScorebook\obj\Debug\BaseballScorebook.Resources.resources
+I:\MyProject\BaseballScorebook\BaseballScorebook-master\BaseballScorebook\BaseballScorebook\obj\Debug\BaseballScorebook.vbproj.GenerateResource.Cache
+I:\MyProject\BaseballScorebook\BaseballScorebook-master\BaseballScorebook\BaseballScorebook\obj\Debug\BaseballScorebook.dll
+I:\MyProject\BaseballScorebook\BaseballScorebook-master\BaseballScorebook\BaseballScorebook\obj\Debug\BaseballScorebook.xml
+I:\MyProject\BaseballScorebook\BaseballScorebook-master\BaseballScorebook\BaseballScorebook\obj\Debug\BaseballScorebook.pdb
