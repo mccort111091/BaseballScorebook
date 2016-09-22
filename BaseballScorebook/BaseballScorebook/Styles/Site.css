@@ -212,4 +212,8 @@ thead {
 div #result label {
   width: auto; }
 
+.positionWidth {
+  width: 30px;
+  text-align: center; }
+
 /*# sourceMappingURL=Site.css.map */

@@ -1,4 +1,6 @@
-﻿/* DEFAULTS
+﻿$positionWidth:30px;
+
+/* DEFAULTS
 ----------------------------------------------------------*/
 body   
 {
@@ -306,4 +308,10 @@ thead
 div #result label
 {
 	width: auto;
+}
+
+.positionWidth
+{
+	width: $positionWidth;
+	text-align: center;
 }
